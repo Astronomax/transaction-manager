@@ -1,0 +1,3 @@
+[submodule "src/lib/small"]
+	path = src/lib/small
+	url = git@github.com:tarantool/small.git
